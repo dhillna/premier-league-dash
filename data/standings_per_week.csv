@@ -1,0 +1,761 @@
+Team,Game_Week,Position,Points,Wins,Draws,Losses,Goals_For,Goals_Against,Goal_Diff
+Newcastle United FC,1,1,3,1,0,0,5,1,4
+Brighton & Hove Albion FC,1,2,3,1,0,0,4,1,3
+Manchester City FC,1,3,3,1,0,0,3,0,3
+Arsenal FC,1,4,3,1,0,0,2,1,1
+Fulham FC,1,5,3,1,0,0,1,0,1
+Crystal Palace FC,1,6,3,1,0,0,1,0,1
+Manchester United FC,1,7,3,1,0,0,1,0,1
+Brentford FC,1,8,1,0,1,0,2,2,0
+Tottenham Hotspur FC,1,9,1,0,1,0,2,2,0
+AFC Bournemouth,1,10,1,0,1,0,1,1,0
+West Ham United FC,1,11,1,0,1,0,1,1,0
+Chelsea FC,1,12,1,0,1,0,1,1,0
+Liverpool FC,1,13,1,0,1,0,1,1,0
+Nottingham Forest FC,1,14,0,0,0,1,1,2,-1
+Everton FC,1,15,0,0,0,1,0,1,-1
+Sheffield United FC,1,16,0,0,0,1,0,1,-1
+Wolverhampton Wanderers FC,1,17,0,0,0,1,0,1,-1
+Luton Town FC,1,18,0,0,0,1,1,4,-3
+Burnley FC,1,19,0,0,0,1,0,3,-3
+Aston Villa FC,1,20,0,0,0,1,1,5,-4
+Brighton & Hove Albion FC,2,1,6,2,0,0,8,2,6
+Manchester City FC,2,2,6,2,0,0,4,0,4
+Arsenal FC,2,3,6,2,0,0,3,1,2
+Brentford FC,2,4,4,1,1,0,5,2,3
+West Ham United FC,2,5,4,1,1,0,4,2,2
+Tottenham Hotspur FC,2,6,4,1,1,0,4,2,2
+Liverpool FC,2,7,4,1,1,0,4,2,2
+Chelsea FC,2,8,4,1,1,1,5,4,1
+Newcastle United FC,2,9,3,1,0,1,5,2,3
+Aston Villa FC,2,10,3,1,0,1,5,5,0
+Nottingham Forest FC,2,11,3,1,0,1,3,3,0
+Crystal Palace FC,2,12,3,1,0,1,1,1,0
+Manchester United FC,2,13,3,1,0,1,1,2,-1
+Fulham FC,2,14,3,1,0,1,1,3,-2
+AFC Bournemouth,2,15,1,0,1,1,2,4,-2
+Sheffield United FC,2,16,0,0,0,2,1,3,-2
+Burnley FC,2,17,0,0,0,1,0,3,-3
+Wolverhampton Wanderers FC,2,18,0,0,0,2,1,5,-4
+Everton FC,2,19,0,0,0,2,0,5,-5
+Luton Town FC,2,20,0,0,0,2,1,7,-6
+West Ham United FC,3,1,10,3,1,0,9,4,5
+Manchester City FC,3,2,9,3,0,0,6,1,5
+Tottenham Hotspur FC,3,3,7,2,1,0,6,2,4
+Liverpool FC,3,4,7,2,1,0,6,3,3
+Arsenal FC,3,5,7,2,1,0,5,3,2
+Brighton & Hove Albion FC,3,6,6,2,0,1,9,5,4
+Aston Villa FC,3,7,6,2,0,1,8,6,2
+Manchester United FC,3,8,6,2,0,1,4,4,0
+Brentford FC,3,9,5,1,2,0,6,3,3
+Chelsea FC,3,10,4,1,1,1,5,4,1
+Crystal Palace FC,3,11,4,1,1,1,2,2,0
+Fulham FC,3,12,4,1,1,1,3,5,-2
+Newcastle United FC,3,13,3,1,0,2,6,4,2
+Nottingham Forest FC,3,14,3,1,0,2,5,6,-1
+Wolverhampton Wanderers FC,3,15,3,1,0,2,2,5,-3
+AFC Bournemouth,3,16,1,0,1,2,2,6,-4
+Sheffield United FC,3,17,0,0,0,3,2,5,-3
+Burnley FC,3,18,0,0,0,2,1,6,-5
+Everton FC,3,19,0,0,0,3,0,6,-6
+Luton Town FC,3,20,0,0,0,3,2,9,-7
+Manchester City FC,4,1,12,4,0,0,11,2,9
+Tottenham Hotspur FC,4,2,10,3,1,0,11,4,7
+Liverpool FC,4,3,10,3,1,0,9,3,6
+West Ham United FC,4,4,10,3,1,0,9,4,5
+Arsenal FC,4,5,10,3,1,0,8,4,4
+Brighton & Hove Albion FC,4,6,9,3,0,1,12,6,6
+Crystal Palace FC,4,7,7,2,1,1,5,4,1
+Fulham FC,4,8,7,2,1,2,5,10,-5
+Brentford FC,4,9,6,1,3,0,8,5,3
+Nottingham Forest FC,4,10,6,2,0,2,6,6,0
+Aston Villa FC,4,11,6,2,0,2,8,9,-1
+Manchester United FC,4,12,6,2,0,2,5,7,-2
+Chelsea FC,4,13,4,1,1,2,5,5,0
+Newcastle United FC,4,14,3,1,0,3,7,7,0
+Wolverhampton Wanderers FC,4,15,3,1,0,3,4,8,-4
+AFC Bournemouth,4,16,2,0,2,2,4,8,-4
+Sheffield United FC,4,17,1,0,1,3,4,7,-3
+Everton FC,4,18,1,0,1,3,2,8,-6
+Burnley FC,4,19,0,0,0,3,3,11,-8
+Luton Town FC,4,20,0,0,0,4,2,10,-8
+Manchester City FC,5,1,15,5,0,0,14,3,11
+Tottenham Hotspur FC,5,2,13,4,1,0,13,5,8
+Liverpool FC,5,3,13,4,1,0,12,4,8
+Arsenal FC,5,4,13,4,1,0,9,4,5
+Brighton & Hove Albion FC,5,5,12,4,0,1,15,7,8
+West Ham United FC,5,6,10,3,1,1,10,7,3
+Aston Villa FC,5,7,9,3,0,2,11,10,1
+Nottingham Forest FC,5,8,7,2,1,2,7,7,0
+Crystal Palace FC,5,9,7,2,1,2,6,7,-1
+Fulham FC,5,10,7,2,1,2,5,10,-5
+Brentford FC,5,11,6,1,3,1,8,6,2
+Newcastle United FC,5,12,6,2,0,3,8,7,1
+Manchester United FC,5,13,6,2,0,3,6,10,-4
+Chelsea FC,5,14,5,1,2,2,5,5,0
+Wolverhampton Wanderers FC,5,15,4,1,1,4,6,12,-6
+AFC Bournemouth,5,16,3,0,3,2,4,8,-4
+Sheffield United FC,5,17,1,0,1,4,5,9,-4
+Everton FC,5,18,1,0,1,4,2,9,-7
+Burnley FC,5,19,1,0,1,3,4,12,-8
+Luton Town FC,5,20,1,0,1,4,3,11,-8
+Manchester City FC,6,1,18,6,0,0,16,3,13
+Liverpool FC,6,2,16,5,1,0,15,5,10
+Brighton & Hove Albion FC,6,3,15,5,0,1,18,8,10
+Tottenham Hotspur FC,6,4,14,4,2,0,15,7,8
+Arsenal FC,6,5,14,4,2,0,11,6,5
+Aston Villa FC,6,6,12,4,0,2,12,10,2
+West Ham United FC,6,7,10,3,1,2,11,10,1
+Newcastle United FC,6,8,9,3,0,3,16,7,9
+Manchester United FC,6,9,9,3,0,3,7,10,-3
+Crystal Palace FC,6,10,8,2,2,2,6,7,-1
+Fulham FC,6,11,8,2,2,2,5,10,-5
+Nottingham Forest FC,6,12,7,2,1,3,7,9,-2
+Brentford FC,6,13,6,1,3,2,9,9,0
+Chelsea FC,6,14,5,1,2,3,5,6,-1
+Everton FC,6,15,4,1,1,5,6,12,-6
+Wolverhampton Wanderers FC,6,16,4,1,1,4,6,12,-6
+Luton Town FC,6,17,4,1,1,4,5,12,-7
+AFC Bournemouth,6,18,3,0,3,3,5,11,-6
+Burnley FC,6,19,1,0,1,4,4,13,-9
+Sheffield United FC,6,20,1,0,1,5,5,17,-12
+Manchester City FC,7,1,18,6,0,1,17,5,12
+Tottenham Hotspur FC,7,2,17,5,2,0,17,8,9
+Arsenal FC,7,3,17,5,2,0,15,6,9
+Liverpool FC,7,4,16,5,1,1,16,7,9
+Aston Villa FC,7,5,15,5,0,2,18,11,7
+Brighton & Hove Albion FC,7,6,15,5,0,2,19,14,5
+West Ham United FC,7,7,13,4,1,2,13,10,3
+Newcastle United FC,7,8,12,4,0,3,18,7,11
+Crystal Palace FC,7,9,11,3,2,2,7,7,0
+Manchester United FC,7,10,9,3,0,4,7,11,-4
+Chelsea FC,7,11,8,2,2,3,7,6,1
+Nottingham Forest FC,7,12,8,2,2,3,8,10,-2
+Fulham FC,7,13,8,2,2,3,5,12,-7
+Brentford FC,7,14,7,1,4,2,10,10,0
+Wolverhampton Wanderers FC,7,15,7,2,1,4,8,13,-5
+Everton FC,7,16,4,1,1,5,6,12,-6
+Luton Town FC,7,17,4,1,1,5,6,14,-8
+Burnley FC,7,18,4,1,1,5,6,16,-10
+AFC Bournemouth,7,19,3,0,3,4,5,15,-10
+Sheffield United FC,7,20,1,0,1,6,5,19,-14
+Tottenham Hotspur FC,8,1,20,6,2,0,18,8,10
+Arsenal FC,8,2,20,6,2,0,16,6,10
+Manchester City FC,8,3,18,6,0,2,17,6,11
+Liverpool FC,8,4,17,5,2,1,18,9,9
+Aston Villa FC,8,5,16,5,1,2,19,12,7
+Brighton & Hove Albion FC,8,6,16,5,1,2,21,16,5
+West Ham United FC,8,7,14,4,2,2,15,12,3
+Newcastle United FC,8,8,13,4,1,3,20,9,11
+Crystal Palace FC,8,9,12,3,3,2,7,7,0
+Manchester United FC,8,10,12,4,0,4,9,12,-3
+Chelsea FC,8,11,11,3,2,3,11,7,4
+Fulham FC,8,12,11,3,2,3,8,13,-5
+Nottingham Forest FC,8,13,9,2,3,3,8,10,-2
+Wolverhampton Wanderers FC,8,14,8,2,2,4,9,14,-5
+Brentford FC,8,15,7,1,4,3,11,12,-1
+Everton FC,8,16,7,2,1,5,9,12,-3
+Luton Town FC,8,17,4,1,1,6,6,15,-9
+Burnley FC,8,18,4,1,1,6,7,20,-13
+AFC Bournemouth,8,19,3,0,3,5,5,18,-13
+Sheffield United FC,8,20,1,0,1,7,6,22,-16
+Tottenham Hotspur FC,9,1,23,7,2,0,20,8,12
+Manchester City FC,9,2,21,7,0,2,19,7,12
+Arsenal FC,9,3,21,6,3,0,18,8,10
+Liverpool FC,9,4,20,6,2,1,20,9,11
+Aston Villa FC,9,5,19,6,1,2,23,13,10
+Newcastle United FC,9,6,16,5,1,3,24,9,15
+Brighton & Hove Albion FC,9,7,16,5,1,3,22,18,4
+Manchester United FC,9,8,15,5,0,4,11,13,-2
+West Ham United FC,9,9,14,4,2,3,16,16,0
+Chelsea FC,9,10,12,3,3,3,13,9,4
+Crystal Palace FC,9,11,12,3,3,3,7,11,-4
+Wolverhampton Wanderers FC,9,12,11,3,2,4,11,15,-4
+Fulham FC,9,13,11,3,2,4,8,15,-7
+Brentford FC,9,14,10,2,4,3,14,12,2
+Nottingham Forest FC,9,15,10,2,4,3,10,12,-2
+Everton FC,9,16,7,2,1,6,9,14,-5
+Luton Town FC,9,17,5,1,2,6,8,17,-9
+Burnley FC,9,18,4,1,1,7,7,23,-16
+AFC Bournemouth,9,19,3,0,3,6,6,20,-14
+Sheffield United FC,9,20,1,0,1,8,7,24,-17
+Tottenham Hotspur FC,10,1,26,8,2,0,22,9,13
+Arsenal FC,10,2,24,7,3,0,23,8,15
+Manchester City FC,10,3,24,8,0,2,22,7,15
+Liverpool FC,10,4,23,7,2,1,23,9,14
+Aston Villa FC,10,5,22,7,1,2,26,14,12
+Newcastle United FC,10,6,17,5,2,3,26,11,15
+Brighton & Hove Albion FC,10,7,17,5,2,3,23,19,4
+Manchester United FC,10,8,15,5,0,5,11,16,-5
+West Ham United FC,10,9,14,4,2,4,16,17,-1
+Brentford FC,10,10,13,3,4,3,16,12,4
+Chelsea FC,10,11,12,3,3,4,13,11,2
+Wolverhampton Wanderers FC,10,12,12,3,3,4,13,17,-4
+Crystal Palace FC,10,13,12,3,3,4,8,13,-5
+Fulham FC,10,14,12,3,3,4,9,16,-7
+Everton FC,10,15,10,3,1,6,10,14,-4
+Nottingham Forest FC,10,16,10,2,4,4,10,15,-5
+AFC Bournemouth,10,17,6,1,3,6,8,21,-13
+Luton Town FC,10,18,5,1,2,7,9,20,-11
+Burnley FC,10,19,4,1,1,8,8,25,-17
+Sheffield United FC,10,20,1,0,1,9,7,29,-22
+Manchester City FC,11,1,27,9,0,2,28,8,20
+Tottenham Hotspur FC,11,2,26,8,2,1,23,13,10
+Liverpool FC,11,3,24,7,3,1,24,10,14
+Arsenal FC,11,4,24,7,3,1,23,9,14
+Aston Villa FC,11,5,22,7,1,3,26,16,10
+Newcastle United FC,11,6,20,6,2,3,27,11,16
+Brighton & Hove Albion FC,11,7,18,5,3,3,24,20,4
+Manchester United FC,11,8,18,6,0,5,12,16,-4
+Brentford FC,11,9,16,4,4,3,19,14,5
+Chelsea FC,11,10,15,4,3,4,17,12,5
+Crystal Palace FC,11,11,15,4,3,4,10,13,-3
+West Ham United FC,11,12,14,4,2,5,18,20,-2
+Nottingham Forest FC,11,13,13,3,4,4,12,15,-3
+Wolverhampton Wanderers FC,11,14,12,3,3,5,14,19,-5
+Fulham FC,11,15,12,3,3,5,9,17,-8
+Everton FC,11,16,11,3,2,6,11,15,-4
+Luton Town FC,11,17,6,1,3,7,10,21,-11
+AFC Bournemouth,11,18,6,1,3,7,9,27,-18
+Burnley FC,11,19,4,1,1,9,8,27,-19
+Sheffield United FC,11,20,4,1,1,9,9,30,-21
+Manchester City FC,12,1,28,9,1,2,32,12,20
+Liverpool FC,12,2,27,8,3,1,27,10,17
+Arsenal FC,12,3,27,8,3,1,26,10,16
+Tottenham Hotspur FC,12,4,26,8,2,2,24,15,9
+Aston Villa FC,12,5,25,8,1,3,29,17,12
+Manchester United FC,12,6,21,7,0,5,13,16,-3
+Newcastle United FC,12,7,20,6,2,4,27,13,14
+Brighton & Hove Albion FC,12,8,19,5,4,3,25,21,4
+West Ham United FC,12,9,17,5,2,5,21,22,-1
+Chelsea FC,12,10,16,4,4,4,21,16,5
+Brentford FC,12,11,16,4,4,4,19,17,2
+Wolverhampton Wanderers FC,12,12,15,4,3,5,16,20,-4
+Crystal Palace FC,12,13,15,4,3,5,12,16,-4
+Everton FC,12,14,14,4,2,6,14,17,-3
+Nottingham Forest FC,12,15,13,3,4,5,14,18,-4
+Fulham FC,12,16,12,3,3,6,10,20,-10
+AFC Bournemouth,12,17,9,2,3,7,11,27,-16
+Luton Town FC,12,18,6,1,3,8,10,22,-12
+Sheffield United FC,12,19,5,1,2,9,10,31,-21
+Burnley FC,12,20,4,1,1,10,9,30,-21
+Arsenal FC,13,1,30,9,3,1,27,10,17
+Manchester City FC,13,2,29,9,2,2,33,13,20
+Liverpool FC,13,3,28,8,4,1,28,11,17
+Aston Villa FC,13,4,28,9,1,3,31,18,13
+Tottenham Hotspur FC,13,5,26,8,2,3,25,17,8
+Manchester United FC,13,6,24,8,0,5,16,16,0
+Newcastle United FC,13,7,23,7,2,4,31,14,17
+Brighton & Hove Albion FC,13,8,22,6,4,3,28,23,5
+West Ham United FC,13,9,20,6,2,5,23,23,0
+Chelsea FC,13,10,16,4,4,5,22,20,2
+Brentford FC,13,11,16,4,4,5,19,18,1
+Wolverhampton Wanderers FC,13,12,15,4,3,6,18,23,-5
+Crystal Palace FC,13,13,15,4,3,6,13,18,-5
+Fulham FC,13,14,15,4,3,6,13,22,-9
+Everton FC,13,15,14,4,2,7,14,20,-6
+Nottingham Forest FC,13,16,13,3,4,6,16,21,-5
+AFC Bournemouth,13,17,12,3,3,7,14,28,-14
+Luton Town FC,13,18,9,2,3,8,12,23,-11
+Sheffield United FC,13,19,5,1,2,10,11,34,-23
+Burnley FC,13,20,4,1,1,11,10,32,-22
+Arsenal FC,14,1,33,10,3,1,29,11,18
+Liverpool FC,14,2,31,9,4,1,32,14,18
+Manchester City FC,14,3,30,9,3,2,36,16,20
+Aston Villa FC,14,4,29,9,2,3,33,20,13
+Tottenham Hotspur FC,14,5,27,8,3,3,28,20,8
+Newcastle United FC,14,6,26,8,2,4,32,14,18
+Manchester United FC,14,7,24,8,0,6,16,17,-1
+Brighton & Hove Albion FC,14,8,22,6,4,4,30,26,4
+West Ham United FC,14,9,21,6,3,5,24,24,0
+Chelsea FC,14,10,19,5,4,5,25,22,3
+Brentford FC,14,11,19,5,4,5,22,19,3
+Everton FC,14,12,17,5,2,7,15,20,-5
+Crystal Palace FC,14,13,16,4,4,6,14,19,-5
+Wolverhampton Wanderers FC,14,14,15,4,3,7,19,25,-6
+Fulham FC,14,15,15,4,3,7,16,26,-10
+Nottingham Forest FC,14,16,13,3,4,7,16,22,-6
+AFC Bournemouth,14,17,13,3,4,7,16,30,-14
+Luton Town FC,14,18,9,2,3,9,13,26,-13
+Burnley FC,14,19,7,2,1,11,15,32,-17
+Sheffield United FC,14,20,5,1,2,11,11,39,-28
+Arsenal FC,15,1,36,11,3,1,33,14,19
+Liverpool FC,15,2,34,10,4,1,34,14,20
+Aston Villa FC,15,3,32,10,2,3,34,20,14
+Manchester City FC,15,4,30,9,3,3,36,17,19
+Tottenham Hotspur FC,15,5,27,8,3,4,29,22,7
+Manchester United FC,15,6,27,9,0,6,18,18,0
+Newcastle United FC,15,7,26,8,2,5,32,17,15
+Brighton & Hove Albion FC,15,8,25,7,4,4,32,27,5
+West Ham United FC,15,9,24,7,3,5,26,25,1
+Everton FC,15,10,20,6,2,7,18,20,-2
+Chelsea FC,15,11,19,5,4,6,26,24,2
+Brentford FC,15,12,19,5,4,6,23,21,2
+Fulham FC,15,13,18,5,3,7,21,26,-5
+Wolverhampton Wanderers FC,15,14,18,5,3,7,20,25,-5
+Crystal Palace FC,15,15,16,4,4,7,14,21,-7
+AFC Bournemouth,15,16,16,4,4,7,18,30,-12
+Nottingham Forest FC,15,17,13,3,4,8,16,27,-11
+Luton Town FC,15,18,9,2,3,10,16,30,-14
+Burnley FC,15,19,7,2,1,12,15,33,-18
+Sheffield United FC,15,20,5,1,2,12,11,41,-30
+Liverpool FC,16,1,37,11,4,1,36,15,21
+Arsenal FC,16,2,36,11,3,2,33,15,18
+Aston Villa FC,16,3,35,11,2,3,35,20,15
+Manchester City FC,16,4,33,10,3,3,38,18,20
+Tottenham Hotspur FC,16,5,30,9,3,4,33,23,10
+Manchester United FC,16,6,27,9,0,7,18,21,-3
+Newcastle United FC,16,7,26,8,2,6,33,21,12
+Brighton & Hove Albion FC,16,8,26,7,5,4,33,28,5
+West Ham United FC,16,9,24,7,3,6,26,30,-4
+Everton FC,16,10,23,7,2,7,20,20,0
+Fulham FC,16,11,21,6,3,7,26,26,0
+Brentford FC,16,12,19,5,4,7,23,22,1
+Chelsea FC,16,13,19,5,4,7,26,26,0
+Wolverhampton Wanderers FC,16,14,19,5,4,7,21,26,-5
+AFC Bournemouth,16,15,19,5,4,7,21,30,-9
+Crystal Palace FC,16,16,16,4,4,8,15,23,-8
+Nottingham Forest FC,16,17,14,3,5,8,17,28,-11
+Luton Town FC,16,18,9,2,3,11,17,32,-15
+Burnley FC,16,19,8,2,2,12,16,34,-18
+Sheffield United FC,16,20,8,2,2,12,12,41,-29
+Arsenal FC,17,1,39,12,3,2,35,15,20
+Liverpool FC,17,2,38,11,5,1,36,15,21
+Aston Villa FC,17,3,38,12,2,3,37,21,16
+Manchester City FC,17,4,34,10,4,3,40,20,20
+Tottenham Hotspur FC,17,5,33,10,3,4,35,23,12
+Newcastle United FC,17,6,29,9,2,7,36,22,14
+Manchester United FC,17,7,28,9,1,7,18,21,-3
+West Ham United FC,17,8,27,8,3,6,29,30,-1
+Brighton & Hove Albion FC,17,9,26,7,5,5,33,30,3
+Everton FC,17,10,26,8,2,7,22,20,2
+Chelsea FC,17,11,22,6,4,7,28,26,2
+Fulham FC,17,12,21,6,3,8,26,29,-3
+Brentford FC,17,13,19,5,4,8,24,24,0
+Wolverhampton Wanderers FC,17,14,19,5,4,8,21,29,-8
+AFC Bournemouth,17,15,19,5,4,7,21,30,-9
+Crystal Palace FC,17,16,17,4,5,8,17,25,-8
+Nottingham Forest FC,17,17,14,3,5,9,17,30,-13
+Luton Town FC,17,18,12,3,3,11,18,32,-14
+Burnley FC,17,19,8,2,2,13,16,36,-20
+Sheffield United FC,17,20,8,2,2,13,12,43,-31
+Arsenal FC,18,1,40,12,4,2,36,16,20
+Liverpool FC,18,2,39,11,6,1,37,16,21
+Aston Villa FC,18,3,39,12,3,3,38,22,16
+Manchester City FC,18,4,37,11,4,3,43,21,22
+Tottenham Hotspur FC,18,5,36,11,3,4,37,24,13
+West Ham United FC,18,6,30,9,3,6,31,30,1
+Newcastle United FC,18,7,29,9,2,7,36,22,14
+Manchester United FC,18,8,28,9,1,8,18,23,-5
+Brighton & Hove Albion FC,18,9,27,7,6,5,34,31,3
+Everton FC,18,10,26,8,2,9,24,25,-1
+Chelsea FC,18,11,22,6,4,8,29,28,1
+Wolverhampton Wanderers FC,18,12,22,6,4,8,23,30,-7
+AFC Bournemouth,18,13,22,6,4,7,24,32,-8
+Fulham FC,18,14,21,6,3,9,26,31,-5
+Brentford FC,18,15,19,5,4,8,24,24,0
+Crystal Palace FC,18,16,18,4,6,8,18,26,-8
+Luton Town FC,18,17,15,4,3,11,21,34,-13
+Nottingham Forest FC,18,18,14,3,5,10,19,33,-14
+Burnley FC,18,19,11,3,2,13,18,36,-18
+Sheffield United FC,18,20,9,2,3,14,15,47,-32
+Liverpool FC,19,1,42,12,6,1,39,16,23
+Manchester City FC,19,2,40,12,4,3,45,21,24
+Arsenal FC,19,3,40,12,4,3,36,18,18
+Aston Villa FC,19,4,39,12,3,4,40,25,15
+Tottenham Hotspur FC,19,5,36,11,3,5,39,28,11
+West Ham United FC,19,6,33,10,3,6,33,30,3
+Manchester United FC,19,7,31,10,1,8,21,25,-4
+Brighton & Hove Albion FC,19,8,30,8,6,5,38,33,5
+Newcastle United FC,19,9,29,9,2,8,37,25,12
+Chelsea FC,19,10,28,8,4,8,34,31,3
+Everton FC,19,11,26,8,2,9,24,25,-1
+Wolverhampton Wanderers FC,19,12,25,7,4,8,27,31,-4
+AFC Bournemouth,19,13,25,7,4,7,27,32,-5
+Fulham FC,19,14,21,6,3,10,26,34,-8
+Brentford FC,19,15,19,5,4,9,25,28,-3
+Crystal Palace FC,19,16,18,4,6,9,19,28,-9
+Nottingham Forest FC,19,17,17,4,5,10,22,34,-12
+Luton Town FC,19,18,15,4,3,12,23,37,-14
+Burnley FC,19,19,11,3,2,14,18,38,-20
+Sheffield United FC,19,20,9,2,3,15,15,49,-34
+Liverpool FC,20,1,45,13,6,1,43,18,25
+Manchester City FC,20,2,43,13,4,3,48,23,25
+Aston Villa FC,20,3,42,13,3,4,43,27,16
+Arsenal FC,20,4,40,12,4,4,37,20,17
+Tottenham Hotspur FC,20,5,39,12,3,5,42,29,13
+West Ham United FC,20,6,34,10,4,6,33,30,3
+Brighton & Hove Albion FC,20,7,31,8,7,5,38,33,5
+Manchester United FC,20,8,31,10,1,9,22,27,-5
+Newcastle United FC,20,9,29,9,2,10,41,32,9
+Chelsea FC,20,10,28,8,4,8,34,31,3
+Wolverhampton Wanderers FC,20,11,28,8,4,8,30,31,-1
+Everton FC,20,12,26,8,2,10,24,28,-4
+AFC Bournemouth,20,13,25,7,4,8,28,35,-7
+Fulham FC,20,14,24,7,3,10,28,35,-7
+Crystal Palace FC,20,15,21,5,6,9,22,29,-7
+Nottingham Forest FC,20,16,20,5,5,10,24,35,-11
+Brentford FC,20,17,19,5,4,10,26,31,-5
+Luton Town FC,20,18,16,4,4,12,24,38,-14
+Burnley FC,20,19,12,3,3,15,21,42,-21
+Sheffield United FC,20,20,9,2,3,15,15,49,-34
+Liverpool FC,21,1,48,14,6,1,47,18,29
+Manchester City FC,21,2,46,14,4,3,51,24,27
+Arsenal FC,21,3,43,13,4,4,42,20,22
+Aston Villa FC,21,4,43,13,4,4,43,27,16
+Tottenham Hotspur FC,21,5,40,12,4,5,44,31,13
+West Ham United FC,21,6,35,10,5,6,35,32,3
+Brighton & Hove Albion FC,21,7,32,8,8,6,38,37,1
+Manchester United FC,21,8,32,10,2,9,24,29,-5
+Chelsea FC,21,9,31,9,4,8,35,31,4
+Newcastle United FC,21,10,29,9,2,10,41,32,9
+Wolverhampton Wanderers FC,21,11,29,8,5,8,30,31,-1
+Everton FC,21,12,27,8,3,10,24,28,-4
+AFC Bournemouth,21,13,25,7,4,9,28,39,-11
+Fulham FC,21,14,24,7,3,11,28,36,-8
+Brentford FC,21,15,22,6,4,10,29,33,-4
+Crystal Palace FC,21,16,21,5,6,10,22,34,-12
+Nottingham Forest FC,21,17,20,5,5,11,26,38,-12
+Luton Town FC,21,18,19,5,4,12,28,38,-10
+Burnley FC,21,19,12,3,3,16,22,45,-23
+Sheffield United FC,21,20,10,2,4,15,17,51,-34
+Liverpool FC,22,1,51,15,6,1,51,19,32
+Manchester City FC,22,2,49,15,4,3,54,25,29
+Arsenal FC,22,3,46,14,4,4,44,21,23
+Tottenham Hotspur FC,22,4,43,13,4,5,47,33,14
+Aston Villa FC,22,5,43,13,4,5,44,30,14
+West Ham United FC,22,6,36,10,6,6,36,33,3
+Manchester United FC,22,7,35,11,2,9,28,32,-4
+Newcastle United FC,22,8,33,10,3,10,48,37,11
+Brighton & Hove Albion FC,22,9,32,8,8,6,38,37,1
+Chelsea FC,22,10,31,9,4,9,36,35,1
+Wolverhampton Wanderers FC,22,11,29,8,5,9,33,35,-2
+Everton FC,22,12,28,8,4,10,24,28,-4
+AFC Bournemouth,22,13,26,7,5,9,29,40,-11
+Fulham FC,22,14,25,7,4,11,28,36,-8
+Crystal Palace FC,22,15,24,6,6,10,25,36,-11
+Brentford FC,22,16,22,6,4,12,32,39,-7
+Luton Town FC,22,17,20,5,5,12,32,42,-10
+Nottingham Forest FC,22,18,20,5,5,12,27,40,-13
+Burnley FC,22,19,12,3,3,16,22,45,-23
+Sheffield United FC,22,20,10,2,4,16,19,54,-35
+Manchester City FC,23,1,52,16,4,3,56,25,31
+Liverpool FC,23,2,51,15,6,2,52,22,30
+Arsenal FC,23,3,49,15,4,4,47,22,25
+Aston Villa FC,23,4,46,14,4,5,49,30,19
+Tottenham Hotspur FC,23,5,44,13,5,5,49,35,14
+Manchester United FC,23,6,38,12,2,9,31,32,-1
+West Ham United FC,23,7,36,10,6,7,36,36,0
+Brighton & Hove Albion FC,23,8,35,9,8,6,42,38,4
+Newcastle United FC,23,9,33,10,3,10,48,37,11
+Wolverhampton Wanderers FC,23,10,32,9,5,9,37,37,0
+Chelsea FC,23,11,31,9,4,10,38,39,-1
+Everton FC,23,12,29,8,5,11,26,32,-6
+AFC Bournemouth,23,13,27,7,6,9,30,41,-11
+Fulham FC,23,14,26,7,5,11,30,38,-8
+Crystal Palace FC,23,15,24,6,6,11,26,40,-14
+Brentford FC,23,16,22,6,4,12,32,39,-7
+Nottingham Forest FC,23,17,21,5,6,12,28,41,-13
+Luton Town FC,23,18,20,5,5,13,33,45,-12
+Burnley FC,23,19,13,3,4,16,24,47,-23
+Sheffield United FC,23,20,13,3,4,17,22,60,-38
+Liverpool FC,24,1,54,16,6,2,55,23,32
+Manchester City FC,24,2,53,16,5,3,57,26,31
+Arsenal FC,24,3,52,16,4,4,53,22,31
+Tottenham Hotspur FC,24,4,47,14,5,5,51,36,15
+Aston Villa FC,24,5,46,14,4,6,50,32,18
+Manchester United FC,24,6,44,14,2,9,35,34,1
+Newcastle United FC,24,7,36,11,3,10,51,39,12
+West Ham United FC,24,8,36,10,6,8,36,42,-6
+Brighton & Hove Albion FC,24,9,35,9,8,7,43,40,3
+Chelsea FC,24,10,35,10,5,10,42,41,1
+Wolverhampton Wanderers FC,24,11,32,9,5,10,37,39,-2
+Fulham FC,24,12,29,8,5,11,33,39,-6
+Everton FC,24,13,29,8,5,11,26,32,-6
+AFC Bournemouth,24,14,27,7,6,10,31,44,-13
+Brentford FC,24,15,25,7,4,12,34,39,-5
+Crystal Palace FC,24,16,24,6,6,12,27,43,-16
+Nottingham Forest FC,24,17,21,5,6,13,30,44,-14
+Luton Town FC,24,18,20,5,5,14,34,47,-13
+Burnley FC,24,19,13,3,4,17,25,50,-25
+Sheffield United FC,24,20,13,3,4,17,22,60,-38
+Liverpool FC,25,1,60,18,6,2,63,25,38
+Manchester City FC,25,2,56,17,5,3,58,26,32
+Arsenal FC,25,3,55,17,4,4,58,22,36
+Aston Villa FC,25,4,49,15,4,6,52,33,19
+Tottenham Hotspur FC,25,5,47,14,5,6,52,38,14
+Manchester United FC,25,6,44,14,2,9,35,34,1
+Brighton & Hove Albion FC,25,7,38,10,8,7,48,40,8
+Newcastle United FC,25,8,37,11,4,10,53,41,12
+West Ham United FC,25,9,36,10,6,9,36,44,-8
+Chelsea FC,25,10,35,10,5,10,42,41,1
+Wolverhampton Wanderers FC,25,11,35,10,5,10,39,40,-1
+Everton FC,25,12,30,8,6,11,27,33,-6
+Fulham FC,25,13,29,8,5,12,34,41,-7
+AFC Bournemouth,25,14,28,7,7,10,33,46,-13
+Brentford FC,25,15,25,7,4,14,35,44,-9
+Crystal Palace FC,25,16,25,6,7,12,28,44,-16
+Nottingham Forest FC,25,17,24,6,6,13,32,44,-12
+Luton Town FC,25,18,20,5,5,15,35,51,-16
+Burnley FC,25,19,13,3,4,18,25,55,-30
+Sheffield United FC,25,20,13,3,4,18,22,65,-43
+Liverpool FC,26,1,60,18,6,2,63,25,38
+Manchester City FC,26,2,59,18,5,3,59,26,33
+Arsenal FC,26,3,58,18,4,4,62,23,39
+Aston Villa FC,26,4,55,17,4,6,59,37,22
+Tottenham Hotspur FC,26,5,47,14,5,6,52,38,14
+Manchester United FC,26,6,44,14,2,10,36,36,0
+Brighton & Hove Albion FC,26,7,39,10,9,7,49,41,8
+West Ham United FC,26,8,39,11,6,9,40,46,-6
+Wolverhampton Wanderers FC,26,9,38,11,5,10,40,40,0
+Newcastle United FC,26,10,37,11,4,11,54,45,9
+Chelsea FC,26,11,36,10,6,10,44,43,1
+Fulham FC,26,12,32,9,5,12,36,42,-6
+Everton FC,26,13,31,8,7,11,28,34,-6
+AFC Bournemouth,26,14,31,8,7,11,35,47,-12
+Crystal Palace FC,26,15,28,7,7,12,31,44,-13
+Brentford FC,26,16,26,7,5,15,39,50,-11
+Nottingham Forest FC,26,17,24,6,6,14,34,48,-14
+Luton Town FC,26,18,20,5,5,16,37,54,-17
+Burnley FC,26,19,13,3,4,20,25,60,-35
+Sheffield United FC,26,20,13,3,4,19,22,66,-44
+Liverpool FC,27,1,63,19,6,2,64,25,39
+Manchester City FC,27,2,62,19,5,3,62,27,35
+Arsenal FC,27,3,61,19,4,4,68,23,45
+Aston Villa FC,27,4,55,17,4,6,59,37,22
+Tottenham Hotspur FC,27,5,50,15,5,6,55,39,16
+Manchester United FC,27,6,44,14,2,11,37,39,-2
+West Ham United FC,27,7,42,12,6,9,43,47,-4
+Newcastle United FC,27,8,40,12,4,12,59,48,11
+Brighton & Hove Albion FC,27,9,39,10,9,8,49,44,5
+Chelsea FC,27,10,39,11,6,10,47,45,2
+Wolverhampton Wanderers FC,27,11,38,11,5,11,40,43,-3
+Fulham FC,27,12,35,10,5,12,39,42,-3
+Everton FC,27,13,31,8,7,12,29,37,-8
+AFC Bournemouth,27,14,31,8,7,11,35,47,-12
+Crystal Palace FC,27,15,29,7,8,13,33,48,-15
+Brentford FC,27,16,26,7,5,15,39,50,-11
+Nottingham Forest FC,27,17,24,6,6,15,34,49,-15
+Luton Town FC,27,18,21,5,6,16,38,55,-17
+Burnley FC,27,19,13,3,4,20,25,60,-35
+Sheffield United FC,27,20,13,3,4,20,22,72,-50
+Arsenal FC,28,1,64,20,4,4,70,24,46
+Liverpool FC,28,2,64,19,7,2,65,26,39
+Manchester City FC,28,3,63,19,6,3,63,28,35
+Aston Villa FC,28,4,55,17,4,7,59,41,18
+Tottenham Hotspur FC,28,5,53,16,5,7,59,42,17
+Manchester United FC,28,6,47,15,2,11,39,39,0
+West Ham United FC,28,7,43,12,7,9,45,49,-4
+Brighton & Hove Albion FC,28,8,42,11,9,8,50,44,6
+Wolverhampton Wanderers FC,28,9,41,12,5,11,42,44,-2
+Newcastle United FC,28,10,40,12,4,12,59,48,11
+Chelsea FC,28,11,40,11,7,10,49,47,2
+Fulham FC,28,12,38,11,5,13,43,44,-1
+AFC Bournemouth,28,13,35,9,8,11,41,52,-11
+Everton FC,28,14,31,8,7,13,29,39,-10
+Crystal Palace FC,28,15,29,7,8,13,33,48,-15
+Brentford FC,28,16,26,7,5,16,40,52,-12
+Nottingham Forest FC,28,17,24,6,6,16,34,50,-16
+Luton Town FC,28,18,21,5,6,17,41,59,-18
+Burnley FC,28,19,15,3,6,20,29,64,-35
+Sheffield United FC,28,20,14,3,5,20,24,74,-50
+Liverpool FC,29,1,67,20,7,2,67,27,40
+Arsenal FC,29,2,65,20,5,4,70,24,46
+Manchester City FC,29,3,64,19,7,3,63,28,35
+Aston Villa FC,29,4,56,17,5,7,60,42,18
+Tottenham Hotspur FC,29,5,53,16,5,7,59,42,17
+Manchester United FC,29,6,48,15,3,11,40,40,0
+West Ham United FC,29,7,44,12,8,9,46,50,-4
+Brighton & Hove Albion FC,29,8,42,11,9,9,51,46,5
+Wolverhampton Wanderers FC,29,9,41,12,5,11,42,44,-2
+Newcastle United FC,29,10,40,12,4,12,59,48,11
+Chelsea FC,29,11,40,11,7,10,49,47,2
+Fulham FC,29,12,38,11,5,13,43,44,-1
+AFC Bournemouth,29,13,38,10,8,11,43,53,-10
+Everton FC,29,14,31,8,7,14,30,41,-11
+Crystal Palace FC,29,15,30,7,9,13,34,49,-15
+Brentford FC,29,16,27,7,6,17,42,55,-13
+Nottingham Forest FC,29,17,26,6,8,16,36,52,-16
+Luton Town FC,29,18,22,5,7,17,42,60,-18
+Burnley FC,29,19,18,4,6,20,31,65,-34
+Sheffield United FC,29,20,14,3,5,20,24,74,-50
+Liverpool FC,30,1,70,21,7,2,70,28,42
+Arsenal FC,30,2,65,20,5,4,70,24,46
+Manchester City FC,30,3,64,19,7,3,63,28,35
+Aston Villa FC,30,4,59,18,5,7,62,42,20
+Tottenham Hotspur FC,30,5,56,17,5,7,61,43,18
+Manchester United FC,30,6,48,15,3,12,43,44,-1
+Newcastle United FC,30,7,44,13,5,12,64,52,12
+Chelsea FC,30,8,44,12,8,10,55,52,3
+West Ham United FC,30,9,44,12,8,10,49,54,-5
+Brighton & Hove Albion FC,30,10,42,11,9,9,51,46,5
+Wolverhampton Wanderers FC,30,11,42,12,6,12,43,47,-4
+AFC Bournemouth,30,12,41,11,8,11,44,53,-9
+Fulham FC,30,13,39,11,6,13,46,47,-1
+Everton FC,30,14,32,8,8,14,31,42,-11
+Crystal Palace FC,30,15,30,7,9,14,34,50,-16
+Brentford FC,30,16,27,7,6,17,42,55,-13
+Nottingham Forest FC,30,17,26,6,8,16,36,52,-16
+Luton Town FC,30,18,22,5,7,18,43,62,-19
+Burnley FC,30,19,19,4,7,20,32,66,-34
+Sheffield United FC,30,20,16,3,7,21,30,82,-52
+Arsenal FC,31,1,71,22,5,4,75,24,51
+Liverpool FC,31,2,71,21,8,2,72,30,42
+Manchester City FC,31,3,70,21,7,3,71,31,40
+Tottenham Hotspur FC,31,4,60,18,6,7,65,45,20
+Aston Villa FC,31,5,59,18,5,8,63,46,17
+Manchester United FC,31,6,49,15,4,12,45,46,-1
+Chelsea FC,31,7,47,13,8,10,61,52,9
+West Ham United FC,31,8,45,12,9,10,50,55,-5
+Newcastle United FC,31,9,44,13,5,12,64,52,12
+Brighton & Hove Albion FC,31,10,43,11,10,10,51,49,2
+Wolverhampton Wanderers FC,31,11,42,12,6,12,43,47,-4
+AFC Bournemouth,31,12,41,11,8,11,44,53,-9
+Fulham FC,31,13,39,11,6,14,47,50,-3
+Everton FC,31,14,35,9,8,15,32,48,-16
+Crystal Palace FC,31,15,30,7,9,15,36,54,-18
+Nottingham Forest FC,31,16,29,7,8,17,40,56,-16
+Brentford FC,31,17,28,7,7,17,42,55,-13
+Luton Town FC,31,18,22,5,7,19,43,64,-21
+Burnley FC,31,19,19,4,7,21,32,67,-35
+Sheffield United FC,31,20,16,3,7,21,30,82,-52
+Arsenal FC,32,1,74,23,5,4,80,24,56
+Liverpool FC,32,2,71,21,8,3,72,31,41
+Manchester City FC,32,3,70,21,7,3,71,31,40
+Aston Villa FC,32,4,60,18,6,8,66,49,17
+Tottenham Hotspur FC,32,5,60,18,6,8,65,49,16
+Newcastle United FC,32,6,50,15,5,12,69,52,17
+Manchester United FC,32,7,50,15,5,12,47,48,-1
+West Ham United FC,32,8,48,13,9,10,52,56,-4
+Chelsea FC,32,9,47,13,8,11,61,57,4
+Brighton & Hove Albion FC,32,10,44,11,11,10,52,50,2
+Wolverhampton Wanderers FC,32,11,43,12,7,13,46,51,-5
+AFC Bournemouth,32,12,42,11,9,12,47,57,-10
+Fulham FC,32,13,39,11,6,15,47,51,-4
+Everton FC,32,14,35,9,8,15,32,48,-16
+Crystal Palace FC,32,15,33,8,9,15,37,54,-17
+Nottingham Forest FC,32,16,30,7,9,17,42,58,-16
+Brentford FC,32,17,29,7,8,17,45,58,-13
+Luton Town FC,32,18,25,6,7,19,45,65,-20
+Burnley FC,32,19,20,4,8,21,33,68,-35
+Sheffield United FC,32,20,16,3,7,21,30,82,-52
+Arsenal FC,33,1,80,25,5,5,85,28,57
+Manchester City FC,33,2,76,23,7,3,80,32,48
+Liverpool FC,33,3,74,22,8,3,75,32,43
+Aston Villa FC,33,4,63,19,6,8,68,49,19
+Tottenham Hotspur FC,33,5,60,18,6,9,67,52,15
+Manchester United FC,33,6,53,16,5,12,51,50,1
+Newcastle United FC,33,7,50,15,5,12,69,52,17
+West Ham United FC,33,8,48,13,9,12,54,63,-9
+Chelsea FC,33,9,47,13,8,11,61,57,4
+Brighton & Hove Albion FC,33,10,44,11,11,11,52,54,-2
+Wolverhampton Wanderers FC,33,11,43,12,7,14,46,53,-7
+Fulham FC,33,12,42,12,6,16,50,54,-4
+AFC Bournemouth,33,13,42,11,9,12,47,57,-10
+Crystal Palace FC,33,14,36,9,9,15,42,56,-14
+Everton FC,33,15,35,9,8,15,32,48,-16
+Brentford FC,33,16,32,8,8,17,47,58,-11
+Nottingham Forest FC,33,17,30,7,9,17,42,58,-16
+Luton Town FC,33,18,25,6,7,20,46,70,-24
+Burnley FC,33,19,23,5,8,21,37,69,-32
+Sheffield United FC,33,20,16,3,7,24,33,92,-59
+Arsenal FC,34,1,80,25,5,5,85,28,57
+Manchester City FC,34,2,79,24,7,3,82,32,50
+Liverpool FC,34,3,74,22,8,4,75,34,41
+Aston Villa FC,34,4,66,20,6,8,71,50,21
+Tottenham Hotspur FC,34,5,60,18,6,10,67,54,13
+Manchester United FC,34,6,54,16,6,12,52,51,1
+Newcastle United FC,34,7,53,16,5,13,74,55,19
+Chelsea FC,34,8,50,14,8,11,63,57,6
+AFC Bournemouth,34,9,48,13,9,13,52,60,-8
+West Ham United FC,34,10,48,13,9,12,54,63,-9
+Brighton & Hove Albion FC,34,11,44,11,11,12,52,57,-5
+Wolverhampton Wanderers FC,34,12,43,12,7,15,46,54,-8
+Fulham FC,34,13,42,12,6,16,50,54,-4
+Everton FC,34,14,41,11,8,15,36,48,-12
+Crystal Palace FC,34,15,39,10,9,15,44,56,-12
+Brentford FC,34,16,35,9,8,17,52,59,-7
+Nottingham Forest FC,34,17,30,7,9,19,42,62,-20
+Luton Town FC,34,18,25,6,7,21,47,75,-28
+Burnley FC,34,19,24,5,9,21,38,70,-32
+Sheffield United FC,34,20,16,3,7,25,34,97,-63
+Manchester City FC,35,1,82,25,7,3,87,33,54
+Arsenal FC,35,2,80,25,5,5,85,28,57
+Liverpool FC,35,3,78,23,9,4,81,38,43
+Aston Villa FC,35,4,67,20,7,8,73,52,21
+Tottenham Hotspur FC,35,5,60,18,6,11,69,58,11
+Newcastle United FC,35,6,56,17,5,13,78,56,22
+Manchester United FC,35,7,54,16,6,12,52,51,1
+Chelsea FC,35,8,51,14,9,11,65,59,6
+West Ham United FC,35,9,49,13,10,12,56,65,-9
+AFC Bournemouth,35,10,48,13,9,13,52,60,-8
+Wolverhampton Wanderers FC,35,11,46,13,7,16,49,60,-11
+Brighton & Hove Albion FC,35,12,44,11,11,12,52,57,-5
+Everton FC,35,13,44,12,8,15,37,48,-11
+Fulham FC,35,14,43,12,7,16,51,55,-4
+Crystal Palace FC,35,15,40,10,10,15,45,57,-12
+Brentford FC,35,16,35,9,8,18,52,60,-8
+Nottingham Forest FC,35,17,30,7,9,19,42,62,-20
+Luton Town FC,35,18,25,6,7,22,48,77,-29
+Burnley FC,35,19,24,5,9,22,39,74,-35
+Sheffield United FC,35,20,16,3,7,25,34,97,-63
+Arsenal FC,36,1,86,27,5,5,89,28,61
+Manchester City FC,36,2,85,26,7,3,91,33,58
+Liverpool FC,36,3,78,23,9,4,81,38,43
+Aston Villa FC,36,4,67,20,7,9,73,53,20
+Tottenham Hotspur FC,36,5,63,19,6,11,71,59,12
+Newcastle United FC,36,6,57,17,6,13,79,57,22
+Chelsea FC,36,7,54,15,9,11,70,59,11
+Manchester United FC,36,8,54,16,6,14,52,56,-4
+West Ham United FC,36,9,49,13,10,13,56,70,-14
+Brighton & Hove Albion FC,36,10,48,12,12,12,54,58,-4
+AFC Bournemouth,36,11,48,13,9,14,52,63,-11
+Wolverhampton Wanderers FC,36,12,46,13,7,16,49,60,-11
+Everton FC,36,13,45,12,9,15,38,49,-11
+Fulham FC,36,14,44,12,8,17,51,59,-8
+Crystal Palace FC,36,15,43,11,10,15,49,57,-8
+Brentford FC,36,16,36,9,9,18,52,60,-8
+Nottingham Forest FC,36,17,33,8,9,19,45,63,-18
+Luton Town FC,36,18,26,6,8,22,49,78,-29
+Burnley FC,36,19,24,5,9,23,40,76,-36
+Sheffield United FC,36,20,16,3,7,26,35,100,-65
+Manchester City FC,37,1,88,27,7,3,93,33,60
+Arsenal FC,37,2,86,27,5,5,89,28,61
+Liverpool FC,37,3,79,23,10,4,84,41,43
+Aston Villa FC,37,4,68,20,8,9,76,56,20
+Tottenham Hotspur FC,37,5,63,19,6,12,71,61,10
+Chelsea FC,37,6,60,17,9,11,75,62,13
+Newcastle United FC,37,7,57,17,6,14,81,60,21
+Manchester United FC,37,8,57,17,6,14,55,58,-3
+West Ham United FC,37,9,52,14,10,13,59,71,-12
+Brighton & Hove Albion FC,37,10,48,12,12,13,55,60,-5
+Everton FC,37,11,48,13,9,15,39,49,-10
+AFC Bournemouth,37,12,48,13,9,15,53,65,-12
+Crystal Palace FC,37,13,46,12,10,15,52,58,-6
+Wolverhampton Wanderers FC,37,14,46,13,7,17,50,63,-13
+Fulham FC,37,15,44,12,8,17,51,59,-8
+Brentford FC,37,16,39,10,9,18,54,61,-7
+Nottingham Forest FC,37,17,33,8,9,20,47,66,-19
+Luton Town FC,37,18,26,6,8,23,50,81,-31
+Burnley FC,37,19,24,5,9,23,40,76,-36
+Sheffield United FC,37,20,16,3,7,27,35,101,-66
+Manchester City FC,38,1,91,28,7,3,96,34,62
+Arsenal FC,38,2,89,28,5,5,91,29,62
+Liverpool FC,38,3,82,24,10,4,86,41,45
+Aston Villa FC,38,4,68,20,8,10,76,61,15
+Tottenham Hotspur FC,38,5,66,20,6,12,74,61,13
+Chelsea FC,38,6,63,18,9,11,77,63,14
+Newcastle United FC,38,7,60,18,6,14,85,62,23
+Manchester United FC,38,8,60,18,6,14,57,58,-1
+West Ham United FC,38,9,52,14,10,14,60,74,-14
+Crystal Palace FC,38,10,49,13,10,15,57,58,-1
+Brighton & Hove Albion FC,38,11,48,12,12,14,55,62,-7
+Everton FC,38,12,48,13,9,16,40,51,-11
+AFC Bournemouth,38,13,48,13,9,16,54,67,-13
+Fulham FC,38,14,47,13,8,17,55,61,-6
+Wolverhampton Wanderers FC,38,15,46,13,7,18,50,65,-15
+Brentford FC,38,16,39,10,9,19,56,65,-9
+Nottingham Forest FC,38,17,36,9,9,20,49,67,-18
+Luton Town FC,38,18,26,6,8,24,52,85,-33
+Burnley FC,38,19,24,5,9,24,41,78,-37
+Sheffield United FC,38,20,16,3,7,28,35,104,-69

@@ -1,0 +1,19 @@
+# Python
+**pycache**/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Conda
+environment.yml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
