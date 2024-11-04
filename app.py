@@ -6,6 +6,7 @@ import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
 from dash_bootstrap_templates import load_figure_template
 import numpy as np
+import os
 
 # Load the standings data
 standings_df = pd.read_csv('data/standings_per_week.csv')
@@ -270,7 +271,9 @@ def update_final_summary_table(selected_team):
         ], style={'list-style-type': 'none', 'padding': '20px'})
     ])
 
+server = app.server  # Add this line if not already there
 
-# Run the app
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    # Use port from environment variable if available (for Render), otherwise use 8050
+    port = int(os.environ.get('PORT', 8050))
+    app.run_server(debug=False, host='0.0.0.0', port=port)
