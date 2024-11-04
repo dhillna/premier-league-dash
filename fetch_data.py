@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Your API key from Football-Data.org
-API_KEY = '6873646605dd4457af95fabe8a0d261b'
+API_KEY = 'YOUR_API_KEY_HERE'
 
 # Base URL for the Football-Data.org API
 BASE_URL = 'https://api.football-data.org/v4/'
