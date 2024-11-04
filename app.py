@@ -33,6 +33,9 @@ load_figure_template('simplex')
 # Initialize the Dash app with a Bootstrap theme
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.LUX])
 
+# Make server available for gunicorn
+server = app.server
+
 # Get the list of unique teams for the dropdown, sorted alphabetically
 teams = sorted(standings_df['Team'].unique())
 
@@ -270,8 +273,6 @@ def update_final_summary_table(selected_team):
             html.Li(f"Goal Difference: {final_week_data['Goal_Diff']}")
         ], style={'list-style-type': 'none', 'padding': '20px'})
     ])
-
-server = app.server  # Add this line if not already there
 
 if __name__ == '__main__':
     # Use port from environment variable if available (for Render), otherwise use 8050
